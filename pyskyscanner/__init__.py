@@ -1,0 +1,1 @@
+from pyskyscanner.pyskyscanner import PySkyScanner
